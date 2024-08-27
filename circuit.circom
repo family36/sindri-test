@@ -4,7 +4,7 @@ pragma circom 2.0.8;
 include "node_modules/circomlib/circuits/comparators.circom";
 
 template Main() {
-    // Put your inputs here.
+    // TODO: Implement custom circuit logic.
     signal input X;
     signal input Y;
     signal output isEqual;
